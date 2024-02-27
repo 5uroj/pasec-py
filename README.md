@@ -41,7 +41,3 @@ In this example:
 - The desired password length is 20 characters.
 - The CSSN parameter "1101" specifies that the password should include capital letters, small letters, and numbers, but exclude symbols.
 
-
-    ````
-    ````
-````
